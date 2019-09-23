@@ -1,0 +1,5 @@
+﻿  _main.cpp
+d:\mmf\kr_sln\_01test\_main.cpp(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\mmf\kr_sln\_01test\_main.cpp(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  _01Test.vcxproj -> D:\MMF\KR_SLN\Debug\_01Test.exe
+  _01Test.vcxproj -> D:\MMF\KR_SLN\Debug\_01Test.pdb (Partial PDB)
